@@ -9,3 +9,12 @@ Salários altos - empregos em segurança têm altos salários iniciais
 Emocionante - o trabalho pode incluir hackear sistemas legalmente ou se defender contra ataques cibernéticos
 Esteja em alta demanda - há mais de 3,5 milhões de vagas cibernéticas não preenchidas
 Esta sala ajuda você a se aprofundar na segurança cibernética fornecendo informações sobre diversas funções de segurança cibernética; ela também fornece links para diferentes caminhos de aprendizagem que você pode usar para começar a desenvolver suas habilidades cibernéticas.
+
+
+- 1 - Analista de Segurança
+- 2 - Engenheiro de Segurança
+- 3 - Respondedores de incidentes (Socorrista)
+- 4 - Examinador Forense Digital
+- 5 - Analista de Malware
+- 6 - Testador de Penetração (Pen test)
+- 7 - Red Teamer
