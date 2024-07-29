@@ -1,6 +1,12 @@
 Desempenha o papel de um adversário, atacando uma organização e fornecendo feedback da perspectiva de um inimigo
 
-Os Red Teamers compartilham semelhanças com os Penetration Testers, com uma função de trabalho mais direcionada. Os Penetration Testers buscam descobrir muitas vulnerabilidades em todos os sistemas para manter a defesa cibernética em boas condições, enquanto os Red Teamers são designados para testar as capacidades de detecção e resposta da empresa. Essa função de trabalho requer imitar as ações dos criminosos cibernéticos, emular ataques maliciosos, reter o acesso e evitar a detecção. As avaliações da Red Team podem durar até um mês, normalmente por uma equipe externa à empresa. Elas geralmente são mais adequadas para organizações com programas de segurança maduros em vigor.
+Os Red Teamers compartilham semelhanças com os Penetration Testers, 
+com uma função de trabalho mais direcionada. 
+Os Penetration Testers buscam descobrir muitas vulnerabilidades em todos os sistemas para manter a defesa cibernética em boas condições, 
+enquanto os Red Teamers são designados para testar as capacidades de detecção e resposta da empresa. 
+Essa função de trabalho requer imitar as ações dos criminosos cibernéticos, emular ataques maliciosos, reter o acesso e evitar a detecção. 
+As avaliações da Red Team podem durar até um mês, normalmente por uma equipe externa à empresa. 
+Elas geralmente são mais adequadas para organizações com programas de segurança maduros em vigor.
 
 Responsabilidades
 Emule o papel de um agente de ameaça para descobrir vulnerabilidades exploráveis, manter o acesso e evitar a detecção
