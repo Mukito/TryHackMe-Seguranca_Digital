@@ -1,10 +1,14 @@
 Identifica e atenua ataques enquanto as operações dos invasores ainda estão em andamento
 
-Os respondedores de incidentes respondem de forma produtiva e eficiente a violações de segurança. As responsabilidades incluem criar planos, políticas e protocolos para as organizações promulgarem durante e após os incidentes. Esta é frequentemente uma posição altamente pressurizada com avaliações e respostas necessárias em tempo real, conforme os ataques se desenrolam. As métricas de resposta a incidentes incluem MTTD, MTTA e MTTR - o meio-tempo para detectar, reconhecer e se recuperar (de ataques). O objetivo é obter uma resposta rápida e eficaz, manter a posição financeira e evitar implicações negativas de violação. Em última análise, os respondedores de incidentes protegem os dados, a reputação e a posição financeira da empresa contra ataques cibernéticos.
+Os respondedores de incidentes respondem de forma produtiva e eficiente a violações de segurança. 
+As responsabilidades incluem criar planos, políticas e protocolos para as organizações promulgarem durante e após os incidentes. 
+Esta é frequentemente uma posição altamente pressurizada com avaliações e respostas necessárias em tempo real, conforme os ataques se desenrolam. 
+As métricas de resposta a incidentes incluem MTTD, MTTA e MTTR - o meio-tempo para detectar, reconhecer e se recuperar (de ataques). 
+O objetivo é obter uma resposta rápida e eficaz, manter a posição financeira e evitar implicações negativas de violação. 
+Em última análise, os respondedores de incidentes protegem os dados, a reputação e a posição financeira da empresa contra ataques cibernéticos.
 
 Responsabilidades
 Desenvolver e adotar um plano de resposta a incidentes completo e acionável
 Manter as melhores práticas de segurança e dar suporte a medidas de resposta a incidentes
 Relatórios pós-incidente e preparação para ataques futuros, considerando aprendizados e adaptações a serem retirados dos incidentes
-Caminhos de Aprendizagem
-Os caminhos de aprendizagem do TryHackMe lhe darão tanto o conhecimento técnico fundamental quanto a experiência prática, o que é crucial para se tornar um socorrista de incidentes bem-sucedido.
+
